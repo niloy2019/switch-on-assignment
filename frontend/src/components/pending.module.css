@@ -1,0 +1,63 @@
+.approve{
+    background-color: green;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid wheat;
+    margin-right: 10px;
+}
+
+.approve:hover{
+    background-color: blue;
+    transition: 2s ease;
+}
+
+.reject{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid wheat;
+}
+
+.reject:hover{
+    background-color: blue;
+    transition: 2s ease;
+}
+
+.request{
+    background-color: brown;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid wheat;
+    float: left;
+}
+
+.text{
+    color: black;
+    font-size: 20px;
+}
+
+.logout{
+    background-color: rgb(59, 38, 38);
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid wheat;
+    float: left;
+}
+
+.background{
+    background-color:none;
+}
+
+.notification{
+    padding-top: 0px;
+    margin-top: 0px;
+    height: 40px;
+}
